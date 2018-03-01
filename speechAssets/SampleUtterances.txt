@@ -1,0 +1,20 @@
+GuessNumber {guessedNumber}
+SayName {firstName}
+YesIntent absolutely
+YesIntent affirmative
+YesIntent definitely
+YesIntent of course
+YesIntent sure
+YesIntent very much
+YesIntent yeah
+YesIntent yes
+YesIntent i guess
+YesIntent ok
+YesIntent ok I guess
+NoIntent nah
+NoIntent negative
+NoIntent no
+NoIntent not really
+NoIntent not much
+NoIntent I don't know
+ThirtyEightIntent thirty eight

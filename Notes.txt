@@ -1,0 +1,45 @@
+ONBOARDING
+Ok, I'm thinking of a number from 1-100. Guess -- NUMBER 
+
+ONBOARDING FIRST TIME 
+
+NORMAL
+Higher/lower-- NUMBER 
+
+PLAYING1
+* My number is h/l than <guess>. No wait, l/h. Sorry. l/h. Definitely
+* {number}? That's your guess? Really? OK then. Higher/lower 
+* Hi. The current time is {time}, in case you needed to know. anyway, 
+* My number is either higher or lower than {number}.
+* Calcuting <beep beep>. h/l
+* You guessed my number! ... is what I would say if that number was correct. But it's not. Mine is h/l
+* I'm going to tell you my number in my secret language. Here it is: sdhfsjdhg
+* Wow. Sorry, there was a huge virus in the cloud just now. But I fixed it. What was your guess again?
+
+PLAYING2
+* I changed my mind. Different number now. 
+* I wasn't listening. Please say it again.
+
+
+PLAYING3
+* (music). Oh, were you still playing? I'm sorry, I forgot the number. I thought of a new one.
+* Do you like penguins? -- YES/NO  
+    Me too/neither. Anyway.... -- NUMBER 
+* Oh I forgot to ask. Please tell me your first name. -- NAME
+    Hi {name}. Now tell me your first name in a high squeaky voice. -- NAME
+    I just wanted to see if you'd actually do it. {squeaky name}. Cracks me up. -- NUMBER 
+* I know, let's play a different game. Would you like to play (low) Epic Global Warfare Battle 5? -- YES/NO
+    There's no such game, but thanks for making me feel unappreciated./Good, because there's no such game. -- NUMBER
+
+
+
+WARFARE BATTLE 
+
+WIN
+That is correct. As a reward, here is the sound of (something)
+
+INTENTS
+GuessNumber
+SayName
+YesNo
+HelpIntent
